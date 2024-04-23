@@ -81,7 +81,7 @@ dependencies {
     implementation group: 'com.vladsch.flexmark', name: 'flexmark', version: '0.62.2'
     implementation group: 'com.vladsch.flexmark', name: 'flexmark-ext-gfm-strikethrough', version: '0.62.2'
     implementation group: 'com.vladsch.flexmark', name: 'flexmark-ext-tables', version: '0.62.2'
-    implementation group: 'com.vladsch.flexmark', name: 'flexmark-ext-gfm-tasklist', version: '0.62.2'
+    implementation group: 'com.vladsch.flexmark', name: 'flexmark-ext-gfm-tasklist', version: '0.64.8'
 
     // Protobuf
     implementation group: 'com.google.protobuf', name: 'protobuf-kotlin-lite', version: '3.25.2'
