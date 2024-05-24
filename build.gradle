@@ -46,7 +46,7 @@ javadoc.options.encoding = 'UTF-8'
 
 protobuf {
     protoc {
-        artifact = 'com.google.protobuf:protoc:3.24.4'
+        artifact = 'com.google.protobuf:protoc:4.27.0'
     }
     plugins {
         javalite {
